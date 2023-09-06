@@ -10,7 +10,7 @@ Original file is located at
 # -*- coding: utf-8 -*-
 """
 Created on Sat Aug 19 18:39:13 2023
-Purpose: To create a hologram image
+Purpose: To create a hologram video from ordinary video
 @author: Achintha Aththanayake
 """
 
